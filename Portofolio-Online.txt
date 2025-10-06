@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CV Online Inda</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+    html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+    </style>
+  </head>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="./foto_profile_setengah.jpg" style="width:100%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-white">
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Management</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Kab. Tangerang. Banten</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>indasiri86@gmail.com</p>
+          <p><i class="fa fa-mobile phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+62 896 3008 0216</p>
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-wrench fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p>Adobe</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:70%">70%</div>
+          </div>
+          <p>Microsoft Office</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
+              <div class="w3-center w3-text-white">80%</div>
+            </div>
+          </div>
+          <p>HTML, JavaScript, & CSS</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:40%">40%</div>
+          </div>
+          <p>Team Work</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+          </div>
+          <br>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-book fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>Bahasa Indonesia</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+          </div>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:60%"></div>
+          </div>
+            <p>руский</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:5%"></div>
+          </div>
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h1 class="w3-text-white w3-padding-16 w3-center" style="background-color:teal;">Indasiri Anggriawan</h1>
+        <h2 class="w3-text-grey">&#128195</i>Profile</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Owner of Aüxide Syndicate Discord Community</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>11 December 2016 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <p>Auxide Syndicate is a Discord Community whose contents are online game players frome SEA such as Thailand, Singapore, Malaysia. Currently Auxide has more than 120+ members.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Fresh Graduate from Bunda Mulia University majoring in Management</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>14 February 2023 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <p>I am a Fresh Graduate from Bunda Mulia University majoring Management seeking for a position in the field of Marketing Management, where i am aim to leverage my knowledge and skills 
+            to drive strategies that contribute to company growth. I also like new things.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Volunteer Certificate of Yayasan Hasanayu Pelita Cinta</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>29 November 2023</h6>
+          <p>Volunteering to help the Hasanayu Foundation in carrying out free public medical events for underprivileged people.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Team Leader PBNC 2018 E-Sport Tournament at Tangerang</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>27 July 2018</h6>
+          <p>Organize gameplay and manage teammates documents for registration purposes and create proposal for submitting School name to Headteacher. 
+            Unfortunately we only made it to the Quarter-Finals because this was our first Tournament</p>
+          <hr>
+        </div>
+
+        
+      </div>
+
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Bunda Mulia University</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>August 2019 - April 2023</h6>
+          <p>Bachelor Degree Majoring Marketing Management with Cumulative GPA: 3.18 and Graduate in 7 Semesters</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Dharma Putra</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 - 2019</h6>
+          <p>Senior High School</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Dharma Putra</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2013 - 2016</h6>
+          <p>Junior High School</p><br>
+        </div>
+      </div>
+
+       <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i style='font-size:40px;'>&#128214;</i> Activities and Achievements</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Self Improvement Webinar: "Out of Ordinary Public Speaker: Creating a Good Digital Content"</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2022</h6>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Soft Skill Training-Facing The New Normal Era As An Exellent Worker</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2022</h6>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>A Public Seminar On Management Business Digital Department Entitled "The Best Strategy For Executing Social Media Campaigns"</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2022</h6>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>IMPACT (Inspiration for Management Planning and ACTion): How To Market Local Brand Internationally</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2022</h6>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>IMPACT (Inspiration for Management Planning and ACTion): "Post Pandemic Business Strategy"</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2021</h6>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>The UBM Studium Generale 008: Creating Marketing Strategy As a Sustainable Value In An Organization</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2021</h6>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Online General Lecture "Plastic Card VS Digital Wallet DANA"</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2021</h6>
+          <hr>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h1 class="w3-text-grey w3-padding-16">
+                <i style='font-size:30px;'></i>Aüxide Syndicate as WICKED Team in PBNC 2018 Tangerang
+            </h1>
+        <a href="https://challonge.com/pbnc2018?fbclid=IwAR1pDmXubcjWhk7ur0KjWWKmV28mQVlnIYzwMIjhK6aSDfgu7x19MoE6Hbw" target="_blank">
+        <img src="./PBNC_2018.jpg" style="width:100%">
+        </a>
+      </div>
+
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h1 class="w3-text-grey w3-padding-16">
+                <i style='font-size:30px;'></i>Volunteer Certificate of Yayasan Hasanayu Pelita Cinta
+            </h1>
+        <a href="https://drive.google.com/file/d/1590SpIzRJS-JeNxleOQ1eF4fTYoynWSX/view?usp=drive_link" target="_blank">
+        <img src="./no_69_sertifikat_Yayasan_Hasanayu.png" style="width:100%">
+        </a>
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+  <div class="w3-text-grey w3-padding-160">
+    <a href="https://drive.google.com/file/d/1ROE9GMdlt7vqPUL6f9AbPuBxH-kQBAvh/view?usp=drive_link" download class="download-link" target="blank">
+        <div style="display: inline-block; margin-top: 20px;">
+            <p style="margin: 0;">Unduh File ini dalam PDF Via Google Drive
+            <img src="./hasil_download-removebg-preview.png" alt="Logo Google Drive" 
+            class="google-drive-logo" style="widht:60px; height:60px"></p>
+        </div>
+    </a>
+</div>
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  <p>Contact Me.</p>
+  <a href="https://www.instagram.com/inda_02" target="_blank" class="fa fa-instagram w3-hover-opacity"></a>
+  <a href="https://www.linkedin.com/in/indasiri-anggriawan-645291275" target="_blank" class="fa fa-linkedin w3-hover-opacity"></a>
+  <a href="http://wa.me/6289630080216" target="_blank" class="fa fa-whatsapp w3-hover-opacity"></a>
+  <a href="mailto:indasiri86@gmail.com" target="_blank" class="fa fa-envelope w4-hover-opacity"></a>
+  <p class="w3-small">This is my online CV, if anything has changed then it has been updated</p>
+</footer>
+
+
+</body>
+</html>
